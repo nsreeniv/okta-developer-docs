@@ -375,7 +375,7 @@ export const guides = [
             guideName: "okta-account-management-policy"
           },
           { 
-            title: "Keep me signed in",
+            title: "Keep me signed in (KMSI)",
             guideName: "configure-keep-me-signed-in"
           },
           {
