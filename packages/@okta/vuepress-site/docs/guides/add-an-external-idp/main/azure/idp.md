@@ -1,1 +1,1 @@
-Azure AD
+Entra ID
