@@ -1,5 +1,5 @@
-* **Name**: Enter a name for the Identity Provider configuration.
-* **Client Id**: Paste the client ID that you obtained from Microsoft Entra ID when you configured the Identity Provider in the previous section.
+* **Name**: Enter a name for the IdP configuration.
+* **Client Id**: Paste the client ID that you obtained from Microsoft Entra ID when you configured the IdP in the previous section.
 * **Client Secret**: Paste the secret that you obtained in the previous section.
 * **Scopes**: Leave the defaults. These scopes are included when Okta makes an OpenID Connect request to Microsoft Entra ID.
 
